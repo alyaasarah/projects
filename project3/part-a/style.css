@@ -1,0 +1,157 @@
+@import "https://fonts.googleapis.com/css?family=Poppins";
+@import "https://fonts.googleapis.com/css?family=Merriweather";
+body {
+  background-image: url("img/background.jpeg");
+  background-size:auto;
+  background-position: center;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  color: rgb(73, 36, 9);
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather', sans-serif;
+}
+
+h2 {font-size: 30px;}
+h3 {font-size: 20px;}
+p {font-size: 15px;}
+
+.navbar {
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: rgb(221, 184, 151);
+    padding: 5px;
+}
+
+.nav-link {
+  color: rgb(87, 56, 0);
+}
+
+.banner-section {
+  position: relative;
+  overflow: hidden;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+.container-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 36px;
+  position: relative;
+}
+
+.coffee-guide {
+  max-width: 800px;
+  min-height: 600px;
+  color: rgb(75, 46, 15);
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  padding: 36px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
+}
+
+.container {
+  max-width: 800px;
+  color: rgb(75, 46, 15);
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  padding: 36px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
+}
+
+.container h1, .coffee-guide h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+  
+.container .black {
+  color: rgb(0, 0, 0);
+}
+  
+.container .brown {
+  color: rgb(166, 106, 47);
+}
+  
+.container p {
+  margin: 16px 0 16px;
+}
+
+.card {
+  background-color: rgb(243, 228, 214);
+}
+
+.button {
+  margin-top: 20px;
+}
+  
+.btn-brown {
+  background-color: rgb(75, 46, 15);
+  color: rgb(255, 255, 255);
+  padding: 10px 30px;
+  font-size: 14px;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+ 
+.btn-brown:hover {
+  background-color: rgb(166, 106, 47);
+}
+
+.footer {
+  background-color: rgba(216, 216, 216, 0.815);
+  padding: 10px;
+  position: relative;
+}
+
+.text-brown {
+  color: rgb(73, 36, 9);
+}
+  
+.text-brown:hover {
+  color: rgb(202, 128, 94);
+}
+
+.tab-pane h2, 
+.tab-pane h5, 
+.tab-pane p, 
+.tab-pane ul, 
+.tab-pane ol {
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.tab-pane ul li, 
+.tab-pane ol li {
+  line-height: 1.7;
+}
+  
+/* Responsive Text & Padding */
+@media (max-width: 768px) {
+  .container h1 {
+    font-size: 36px;
+  }
+      
+  .container p {
+    font-size: 12px;
+   }
+      
+  .btn-brown {
+    padding: 8px 24px;
+    font-size: 12px;
+  }
+
+  .img-fluid {
+    margin-bottom: 40px;
+  }
+}
+      
