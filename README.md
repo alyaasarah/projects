@@ -1,12 +1,12 @@
 # My Project Showcase
 
-## 📁 Project 1: MobileMatch Website
-A recommendation smartphone website built with HTML, CSS, and JavaScript.  
-🔗 [View Repo](https://github.com/username/portfolio-website)
-
-## 📁 Project 2: Foodies.MY
+## 📁 Project 1: Foodies.MY
 A website best for tourist in Malaysia that recommendends best restaurants or cafes in specific states. 
 🔗 [View Repo](https://github.com/username/ecommerce-backend)
+
+## 📁 Project 2: MobileMatch Website
+A recommendation smartphone website built with HTML, CSS, and JavaScript.  
+🔗 [View Repo](https://github.com/username/portfolio-website)
 
 ## 📁 Project 3: NOURA
 A coffee-guide website for coffee lovers built mainly for Google Analytics education purpose.
