@@ -1,0 +1,16 @@
+[
+    {
+        "userid": "U0001",
+        "username": "alyaa",
+        "email": "alyaa@gmail.com",
+        "password": "123",
+        "favourite": ""
+    },
+    {
+        "userid": "U0002",
+        "username": "arsyad",
+        "email": "arsyad@gmail.com",
+        "password": "1234",
+        "favourite": ""
+    }
+]

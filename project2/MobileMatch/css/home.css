@@ -1,0 +1,51 @@
+.device-container {
+	flex-direction: column;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 40px;
+	padding: 20px 20px;
+	display: flex;
+	align-items: center;
+	width: auto;
+}
+
+.device-container a {
+	text-decoration: none;
+}
+
+.device-container img {
+	height: auto;
+	width: 200px;
+}
+
+.device-container h3 {
+	font-size: 20px;
+	margin: 10px 0;
+}
+
+.device-container p {
+	font-size: 16px;
+	display: flex;
+	text-align: center;
+}
+
+.device-container button {
+	height: 40px;
+	width: 200px;
+	background-color: #ebd4fd;
+	border-radius: 10%;
+	transition: border-radius 0.7s, box-shadow 0.2s;
+}
+
+.device-container button:hover {
+	box-shadow: 10px 10px 15px #fdd4fa;
+}
+
+/* Flexbox layout for devices */
+@media ( min-width : 500px) {
+	device-container {
+		display: flex;
+		justify-content: center;
+	}
+}

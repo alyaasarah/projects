@@ -1,0 +1,65 @@
+[{
+	"deviceId": "X11NE",
+	"device brand": "Xiaomi",
+	"device name": "Xiaomi 11 Lite 5G NE",
+	"release date": "2 October 2021",
+	"operating system": "Android 11 (MIUI 12.5)",
+	"ram": "6/8 GB",
+	"memory size": "128/256 GB",
+	"cpu": "Octa-core",
+	"battery size": "4250mAh",
+	"dimension": "75.72 x 160.53 x 6.81 mm",
+	"weight": "158 g",
+	"colours": [
+		"Truffle Black",
+		"Bubblegum Blue",
+		"Peach Pink",
+		"Snowflake White"
+	],
+	"connector type": "USB Type-C",
+	"audio": "Dual speakers",
+	"sound jack": "No"
+},
+{
+	"deviceId": "SGA54",
+	"device brand": "Samsung",
+	"device name": "Samsung Galaxy A54",
+	"release date": "24 March 2023",
+	"operating system": "Android 13 (One UI 5.1)",
+	"ram": "6/8 GB",
+	"memory size": "128/256 GB",
+	"cpu": "Octa-core",
+	"battery size": "5000mAh",
+	"dimension": "158.2 x 76.7 x 8.2 mm",
+	"weight": "202 g",
+	"colours": [
+		"Lime",
+		"Graphite",
+		"Violet",
+		"White"
+	],
+	"connector type": "USB Type-C",
+	"audio": "Stereo speakers",
+	"sound jack": "No"
+},
+{
+	"deviceId": "AROG6",
+	"device brand": "Asus",
+	"device name": "Asus ROG Phone 6",
+	"release date": "13 July 2022",
+	"operating system": "Android 12",
+	"ram": "8/12/16 GB",
+	"memory size": "128/256/512 GB",
+	"cpu": "Octa-core",
+	"battery size": "6000mAh",
+	"dimension": "173 x 77 x 10.3 mm",
+	"weight": "239 g",
+	"colours": [
+		"Phantom Black",
+		"Storm White"
+	],
+	"connector type": "USB Type-C",
+	"audio": "Stereo speakers",
+	"sound jack": "Yes"
+}
+]

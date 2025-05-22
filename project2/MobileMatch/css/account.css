@@ -1,0 +1,66 @@
+.signin h2 {
+	text-align: center;
+	padding-top: 40px;
+}
+
+.register h2 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.si-email, .si-psw, .su-email, .su-psw, .confirm {
+	height: 25px;
+	width: 400px;
+	margin: 15px 0;
+}
+
+.username {
+	height: 25px;
+	width: 400px;
+	margin: 15px 0;
+}
+
+.hyperlink {
+	text-align: center;
+	margin-right: 240px;
+	margin-bottom: 30px;
+}
+
+.signin-button, .register-button, .submit-button {
+	display: flex;
+	justify-content: center;
+	margin: 0 20px;
+}
+
+.register-button button, .signin-button button, .submit-button button {
+	height: 30px;
+	width: 100px;
+	margin-left: 30px;
+}
+
+.submit-button {
+	padding-top: 40px;
+}
+
+.error-message {
+	margin: 10px 0;
+	padding: 10px;
+	border: 1px solid red;
+	background-color: #ffe6e6;
+	color: red;
+}
+
+.success_message {
+	margin: 10px 0;
+	padding: 10px;
+	border: 1px solid red;
+	background-color: #eeffe6;
+	color: green;
+}

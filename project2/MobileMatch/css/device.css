@@ -1,0 +1,215 @@
+/* Device Info Section */
+.device-info {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+}
+
+.device-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 20px;
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.device-container score {
+	display: absolute;
+	text-align: right;
+}
+
+.device-info img {
+	height: auto;
+	width: 200px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.fav-btn {
+	height: 50px;
+	width: 50px;
+	align-self: flex-end;
+	/* move the button to the bottom right of the container */
+}
+
+.fav-btn i {
+	font-size: 30px;
+	text-align: center;
+}
+
+.device-container h3 {
+	position: absolute;
+}
+
+/* Device Specification Table */
+.device-specification {
+	margin-top: 20px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+th {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #ddd;
+}
+
+td {
+	padding: 10px;
+	text-align: left;
+	border: 1px solid #ddd;
+}
+
+th {
+	background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+tr:hover {
+	background-color: #ddd;
+}
+
+/* Retailer Section */
+.retailers-container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.retailer1, .retailer2, .retailer3 {
+	display: inline-block;
+	width: 30%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.retailer1 img, .retailer2 img, .retailer3 img {
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	border-radius: 5%;
+	margin-bottom: 10px;
+}
+
+.retailer1 p, .retailer2 p, .retailer3 p {
+	margin-bottom: 10px;
+}
+
+/* External Reviews Section */
+.review-container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.review1, .review2, .review3 {
+	display: inline-block;
+	width: 100%;
+	max-width: 400px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.review1 img, .review2 img, .review3 img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+	border-radius: 5%;
+	margin-bottom: 10px;
+}
+
+.review1 a, .review2 a, .review3 a {
+	display: block;
+	margin-top: 10px;
+	text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+	.device-info {
+		justify-content: space-between;
+	}
+	.device-container {
+		width: calc(100% - 250px);
+		/* subtract the width of the image and the gap between the image and the container */
+		margin-bottom: 0;
+	}
+	.review-container {
+		justify-content: space-between;
+	}
+	.review1, .review2, .review3 {
+		width: calc(33.33% - 20px);
+		/* subtract the margin between the containers */
+		margin-right: 20px;
+	}
+	.review3 {
+		margin-right: 0;
+	}
+}
+
+/*SUBMIT REVIEW*/
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px;
+	border: 1px solid #ccc;
+}
+
+label {
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+select, textarea, input[type="text"] {
+	width: 100%;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+textarea#comment {
+	height: 100px;
+}
+
+button[type="submit"] {
+	background-color: #d3d3d3;
+	color: #000;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.reviews {
+	width: 100%;
+	max-width: 800px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 20px;
+}
+
+.rating {
+	font-weight: bold;
+	margin-right: 10px;
+	color: gold;
+}

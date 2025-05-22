@@ -1,0 +1,82 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+.header img {
+	width: 100px;
+	padding: 10px 30px;
+}
+
+.rank-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #fff;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.rank-info {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.rank-info h2 {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+.device-image {
+	width: 100px;
+	height: auto;
+	object-fit: cover;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+.details a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	background-color: #ddd;
+	border-radius: 5px;
+	padding: 5px 10px;
+	transition: all 0.2s ease-in-out;
+}
+
+.details a:hover {
+	background-color: #333;
+	color: #fff;
+}
+
+.rank-scores {
+	text-align: right;
+}
+
+.recom-score, .user-score {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.recom-score {
+	color: #000;
+}
+
+.user-score {
+	color: #333;
+}

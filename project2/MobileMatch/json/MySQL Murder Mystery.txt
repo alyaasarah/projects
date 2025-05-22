@@ -1,0 +1,74 @@
+SQL MURDER MYSTERY
+
+Case - Murder
+Date - Jan 15, 2018
+Place - SQL City
+
+2 witnesses:-
+1) lives at last house on "Northwestern Dr"
+2) named "Annabell", lives somewhere "Franklin Ave"
+
+a) Witness 1
+name: Morty Schapiro
+id: 14887
+lives: Northwestern Dr
+
+b) Witness 2
+name: Annabel Miller
+id: 16371
+lives: Franklin Ave
+license id: 490173
+ssn: 318771143
+m_id: 90081
+m_status: gold
+check_in: 9/01/2018 (1600 - 1700)
+event: The Funky Grooves Tour
+event date: 15/01/2018
+
+
+The Funky Grooves Tour
+person id:- 
+1) 14887 - Morty Schapiro (Northwestern Dr)
+2) 16371 - Annabel Miller
+3) 67318 - Jeremy Bowers (Washington Pl, Apt 3A)
+
+HINT ABOUT THE MURDER
+1) Had 'Get Fit Now Gym' bag
+2) Membership started with "48Z" (Gold members)
+3) Car plate: H42W
+
+	Suspect 1
+	name : Jeremy Bowers
+	id : 67318
+	m_id : 48Z55
+	licence_id : 423327
+	ssn : 871539289
+	address : Washington PI, Apt 3A
+
+HINT ABOUT THE MASTER MIND
+1) Woman with lot of money
+2) Around 5'5" (65") or 5'7" (67")
+3) Red hair
+4) Drives Tesla Model S
+5) Attended SQL Symphony Concert 3 times in December 2017
+
+	Suspect 1
+	name : Bryan Pardo
+	id : 24556
+	license_id : 101191
+	ssn : 816663882
+
+	Suspect 2
+	name : Miranda Priestly
+	id : 99716
+	license_id : 202298
+	ssn : 987756388
+	age: 68
+	height : 66
+	hair color : red
+	car : Tesla Model S
+	income : 310000
+
+
+MURDER: JEREMY BOWERS
+MASTER MIND: Miranda Priestly

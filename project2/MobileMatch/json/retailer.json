@@ -1,0 +1,35 @@
+[
+	{
+		"retailerId": "R0001",
+		"retailerName": "Xiaomi",
+		"product": "Xiaomi 11 Lite 5G NE",
+		"price": "RM 1298.00",
+		"prodLink": [
+			"https://www.expansys.my/xiaomi-11-lite-5g-ne-dual-sm-8gb-256gb-peach-pink-366725/",
+			"https://www.lazada.com.my/products/xiaomi-11-lite-5g-ne-mi-11-lite-5g-ne-8gb-ram-256gb-rom-xiaomi-malaysia-warranty-i3011255889-s14863215623.html?from_gmc=1&exlaz=d_1:mm_150050845_51350205_2010350205::12:19330051338!!!!!c!!14863215623!569324806&gclid=EAIaIQobChMI74mzmIO5_gIVQ6aWCh2IhgXmEAQYBCABEgJH4PD_BwE",
+			"https://shopee.com.my/XIAOMI-11-LITE-5G-NE%F0%9F%92%A58GB-256GB%F0%9F%92%A5%F0%9F%8E%81FREE-GIFT%F0%9F%8E%81-XIAOMI-MALAYSIA-i.308187487.3467746851?sp_atk=5128f214-4d3f-4c61-aa17-17c5d6c46cfb&xptdk=5128f214-4d3f-4c61-aa17-17c5d6c46cfb"
+		]
+	},
+	{
+		"retailerId": "R0002",
+		"retailerName": "Samsung",
+		"product": "Samsung Galaxy A54",
+		"price": "RM 1899.00",
+		"prodLink": [
+			"https://www.samsung.com/my/smartphones/galaxy-a/galaxy-a54-5g-awesome-violet-256gb-sm-a546elvdxme/buy/",
+			"https://www.lazada.com.my/products/samsung-galaxy-a54-5g-smartphone-8gb-ram-256gb-rom-awesome-lime-violet-white-graphite-i2067369304-s19392125201.html?channelLpJumpArgs=&clickTrackInfo=query%253Asamsung%252Bgalaxy%252Ba54%253Bnid%253A2067369304%253Bsrc%253ALazadaMainSrp%253Brn%253A518bbc8869f7b8076e093b29b1c46420%253Bregion%253Amy%253Bsku%253A2067369304_MY%253Bprice%253A1899%253Bclient%253Adesktop%253Bsupplier_id%253A47%253Bpromotion_biz%253A%253Basc_category_id%253A3%253Bitem_id%253A2067369304%253Bsku_id%253A19392125201%253Bshop_id%253A642&fastshipping=0&freeshipping=0&fs_ab=2&fuse_fs=0&lang=en&location=Wp%20Kuala%20Lumpur&price=1899&priceCompare=&ratingscore=4.4&request_id=518bbc8869f7b8076e093b29b1c46420&review=11&sale=56&search=1&source=search&spm=a2o4k.searchlist.list.i40.821261af2nc9ZW&stock=1",
+			"https://www.harveynorman.com.my/smart-tech-and-phones/phones-and-phablets-en/mobile-phones/samsung-galaxy-a54-5g-8gb-256gb-awesome-lime-sm-a546elgdxme.html?gclid=EAIaIQobChMIm_6W3oK5_gIVh1cPAh0YYQm4EAYYAyABEgJCafD_BwE"
+		]
+	},
+	{
+		"retailerId": "R0003",
+		"retailerName": "Asus",
+		"product": "Asus ROG Phone 6",
+		"price": "RM 2899.00",
+		"prodLink": [
+			"https://shop.asus.com/my/rog-phone-6.html",
+			"https://www.lazada.com.my/products/asus-rog-phone-6-5g-gaming-smartphone-12gb-ram-256gb-rom-16gb-ram-512gb-rom-snapdragon-8-gen-1-5g-mobile-678-amoled-display-i3081060278-s15380042046.html?from_gmc=1&exlaz=d_1:mm_150050845_51350205_2010350205::12:19330051338!!!!!c!!15380042046!472872381&gclid=EAIaIQobChMI5vL8tIO5_gIVi7yWCh2eOA63EAQYASABEgJLLfD_BwE",
+			"https://shopee.com.my/product/349178841/4285461715"
+		]
+	}
+]

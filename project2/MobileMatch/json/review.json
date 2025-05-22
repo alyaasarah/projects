@@ -1,0 +1,35 @@
+[
+	{
+		"deviceid": "X11NE",
+		"devicename": "Xiaomi 11 Lite 5G NE",
+		"reviews": [
+			{
+				"username": "Hana",
+				"review": "To be honest, I don't recommend to buy this.",
+				"rating": 3
+			}
+		]
+	},
+	{
+		"deviceid": "SGAA54",
+		"devicename": "Samsung Galaxy A54",
+		"reviews": [
+			{
+				"username": "Timothy",
+				"review": "It's an awesome gaming phone!",
+				"rating": 10
+			}
+		]
+	},
+	{
+		"deviceid": "AROG6",
+		"devicename": "Asus ROG Phone 6",
+		"reviews": [
+			{
+				"username": "Harry",
+				"review": "The phone is light and slim! I love it.",
+				"rating": 9
+			}
+		]
+	}
+]

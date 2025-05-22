@@ -1,0 +1,29 @@
+[
+	{
+		"exName": "Xiaomi",
+		"deviceName": "Xiaomi 11 Lite 5G NE",
+		"exLink": [
+			"https://www.gsmarena.com/xiaomi_11_lite_5g_ne-review-2320.php",
+			"https://nasilemaktech.com/review-xiaomi-11-lite-5g-ne/",
+			"https://www.ephotozine.com/article/xiaomi-11-lite-5g-ne-smartphone-review-35855"
+		]
+	},
+	{
+		"exName": "Samsung",
+		"deviceName": "Samsung Galaxy A54",
+		"exLink": [
+			"https://www.gsmarena.com/samsung_galaxy_a54-reviews-12070.php",
+			"https://www.androidpolice.com/samsung-galaxy-a54-5g-review/",
+			"https://www.trustedreviews.com/reviews/samsung-galaxy-a54-5g"
+		]
+	},
+	{
+		"exName": "Asus",
+		"deviceName": "Asus ROG Phone 6",
+		"exLink": [
+			"https://www.gsmarena.com/asus_rog_phone_6-reviews-11647.php",
+			"https://www.techadvisor.com/article/1418170/asus-rog-phone-6-review.html",
+			"https://www.androidpolice.com/asus-rog-phone-6-pro-review/"
+		]
+	}
+]
